@@ -12,6 +12,8 @@ public class MaxMinusMin {
     public static void main(String [] args){
         
     }
+
+    
     public int difference(List<Integer> nums){
         int min, max;
         max = Collections.max(nums);
